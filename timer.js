@@ -1,5 +1,5 @@
 // Set the date we're counting down to
-var countDownDate = new Date("Nov 10, 2021 11:00").getTime();
+var countDownDate = new Date("Nov 10, 2022 11:00").getTime();
 
 function timePart(val,text,color="Green"){
   return `<h1 class="timer" style="color:${color};">${val}<div>${text}</div></h1>`
